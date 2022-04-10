@@ -32,16 +32,16 @@ I'm proud of how far I got in updating the project so far.
 <a name="learned"></a>
 ### What I Learned
 By changing random things while following along the tutorial I learned that:
-    1. If nodemon is installed globally in the project and React is not, this will cause two versions of the React DOM/React to be installed:
-    - This might cause this [Invalid Hook Call](https://reactjs.org/warnings/invalid-hook-call-warning.html) issue
-    - You cannot have a hook in a class
+1. If nodemon is installed globally in the project and React is not, this will cause two versions of the React DOM/React to be installed:
+- This might cause this [Invalid Hook Call](https://reactjs.org/warnings/invalid-hook-call-warning.html) issue
+- You cannot have a hook in a class
 
 
-    2. Using updated versions of node or other modules might mean that old packages have to be used or there will be an error:
-    - You can configure npm to try to force the install using `npm install --force` or `npm install --legacy-peer-deps`
-    - This did not work in my case, I had to figure out a different way to get the package to work
-    - `npm config set legacy-peer-deps true` configures the npm to ignore legacy dependencies and to install anyway
-    - While I understand what happened, my definitions for pkg vs deps vs modules vs libs is not as solid as I'd like and I want to be able to explain this further
+2. Using updated versions of node or other modules might mean that old packages have to be used or there will be an error:
+- You can configure npm to try to force the install using `npm install --force` or `npm install --legacy-peer-deps`
+- This did not work in my case, I had to figure out a different way to get the package to work
+- `npm config set legacy-peer-deps true` configures the npm to ignore legacy dependencies and to install anyway
+- While I understand what happened, my definitions for pkg vs deps vs modules vs libs is not as solid as I'd like and I want to be able to explain this further
 
 
 3. First time using Bootstrap
