@@ -11,9 +11,9 @@
 
 <a name="overview"></a>
 ## Overview
-This project was made following an outdated Youtube tutorial. There was an updated one, but I wanted to make this. There were challenges along the way dealing with outdated dependencies, and because I structured my project differently. There was one big challenge dealing with the way the server got installed. Whew, I felt so good when I finally figured that one out! 
+**At the time of this updated README, the project needs an update to the edit link. The tutorial uses an outdated way to retreive the specific values needed in the Edit Component. I am off to exploring deeper into programming with JavaScript to hope to understand the best way to implement this feature.**
 
-At the time of this updated README, the project needs an update to the edit link. The tutorial uses an outdated way to retreive the specific values needed in the Edit Component. I am off to exploring deeper into programming with JavaScript to hope to understand the best way to implement this feature.
+This project was made following an outdated Youtube tutorial. There was an updated one, but I wanted to make this. There were challenges along the way dealing with outdated dependencies, and because I structured my project differently. There was one big challenge dealing with the way the server got installed. Whew, I felt so good when I finally figured that one out! 
 
 I'm proud of how far I got in updating the project so far.
 
